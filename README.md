@@ -12,3 +12,53 @@ checking out at the retail store. It gives control to the user and makes grocery
 shopping way more convenient; users can scan items from their mobile devices 
 while they are picking them, pay online and walk right out of the door without 
 ever having to deal with anyone. 
+
+
+**Architecture**
+
+<img src = "Images/Architecture.PNG" height="370px" width="700px">
+
+
+**Introduction Screens**
+
+<img src = "Images/Intro 1.PNG" height="370px" width="200px"> <img src = "Images/Intro 2.PNG" height="370px" width="200px">
+
+
+**Authentication/Registration**
+
+<img src = "Images/Authentication_Reigstration.PNG" height="370px" width="440px">
+
+
+**Home Screen**
+
+<img src = "Images/Homescreen.PNG" height="370px" width="220px">
+
+
+**Bar Code Scan**
+
+<img src = "Images/Bar Code - camera.PNG" height="370px" width="200px"> <img src = "Images/Bar Code - manual.PNG" height="370px" width="200px">
+
+
+**Product Authenticity**
+
+<img src = "Images/Validation.PNG" height="370px" width="450px">
+
+
+**Cart**
+
+<img src = "Images/Cart.PNG" height="370px" width="600px">
+
+
+**Payment and receipt**
+
+<img src = "Images/Payment.PNG" height="370px" width="200px">
+
+
+**Receipt Mail**
+
+<img src = "Images/Email.PNG" height="140px" width="400px">
+
+
+**Receipt**
+
+<img src = "Images/Bill.PNG" height="370px" width="600px">
